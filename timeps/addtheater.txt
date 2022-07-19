@@ -1,0 +1,13 @@
+id
+name
+address
+state
+city
+pin
+
+1
+NEXUS theaters
+NEXUS theater,Inside Gate-no.2,Opposite Balaji wafers pvt ltd,Metoda Rajkot Gujrat - 360021
+Gujrat
+Rajkot
+360021
